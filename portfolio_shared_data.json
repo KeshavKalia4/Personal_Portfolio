@@ -1,0 +1,91 @@
+{
+    "basic_info": {
+      "name": "Keshav Kalia",
+      "titles": [ "Informatics Student @ UW", "Junior Software Engineer @ Mapsimum", "SWE Fellow @ Headstarter" ],
+      "social": [
+
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/keshavkalia4/",
+          "class": "fab fa-linkedin"
+        },
+        
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/keshavkalia4/",
+          "class": "fab fa-instagram"
+        }
+        
+      ],
+      "image": "IMG_1135.JPG"
+    },
+    "skills": {
+      "icons": 
+      [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "95"
+        },
+        {
+          "name": "Next.js",
+          "class": "devicon-nextjs-plain",
+          "level": "90"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "95"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "90"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-plain",
+          "level": "95"
+        }
+      ]
+      
+
+      
+
+    }
+  }
